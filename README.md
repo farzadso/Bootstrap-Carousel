@@ -6,7 +6,7 @@ _This plugin will add a bootstrap carousel with three images (from external sour
 _This carousel is based on disribution 3.3.6 of bootstrap and includes the necessary .js and .css files in the plugin itself._
 
 ## Demo
-[Bootstrap Carousel Plugin - Click Here](https://apex.oracle.com/pls/apex/f?p=104679:1)
+[Bootstrap Carousel Plugin - Click Here](https://apex.oracle.com/pls/apex/f?p=48547:1)
 
 ## Installation
 Just import the 
