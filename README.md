@@ -53,6 +53,6 @@ _If **"Yes"** is selected then the animation will pause on mouse hover and resum
 
 [Farzad Soltani - On GitHub](https://github.com/farzadso)
 
-[Twitter](https://www.twitter.com/farzadso)
+[Twitter](https://www.twitter.com/FarzadSo)
 
 [E-mail - Relevant Questions Only Please](mailto:farzad.au@gmail.com)
