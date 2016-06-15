@@ -1,146 +1,58 @@
 # Oracle APEX Bootstrap Carousel Plugin
-Oracle APEX jQuery News Ticker Plugin
+_Oracle APEX Bootstrap Carousel Plugin_
 
-##Demo
-[News Ticker Plugin - Click Here](https://apex.oracle.com/pls/apex/f?p=104679:1)
+_This plugin will add a bootstrap carousel with three images (from external sources or from your web server content or files in your **Static Application Files**) that automatically sets its width accordingly. Keyboard functionality is alspo supported and changing the slides can be controlled via the left and right arrow keys._
 
-##Installation
+_This carousel is based on disribution 3.3.6 of bootstrap and includes the necessary .js and .css files in the plugin itself._
+
+## Demo
+[Bootstrap Carousel Plugin - Click Here](https://apex.oracle.com/pls/apex/f?p=104679:1)
+
+## Installation
 Just import the 
 ```html
-item_type_plugin_com_jafr_news_ticker.sql
+item_type_plugin_com_jafr_bootstrap_carousel.sql
 ```
-file into your application.
+file into your APEX application and add the plugin to any region.
 
-## Usage
+## Settings
 
-Title
-```html
-The title of the News Ticker.
-```
+**First Image Link:**
 
-
-List Item 1
-```html
-Content of the first news item - Necessary
-```
+_The link of the first image is placed in this text field._
 
 
-List Item 2
-```html
-Content of the second news item - Optional
-```
+**Second Image Link:**
+
+_The link of the second image is placed in this text field._
 
 
-List Item 3
-```html
-Content of the third news item - Optional
-```
+**Third Image Link:**
+
+_The link of the third image is placed in this text field._
 
 
-Random
-```html
-Whether to display ticker items in a random order or not
-Available options include:
-Yes
-No
-```
+**Data Interval:**
 
+_Number of seconds delay between slide transitions_
 
+_Available options include:_
 
-Switch Speed
-```html
-The pause on each ticker item before being replaced (seconds)
-Available options include:
-Seconds of Delay
-1
-2
-3
-5
-10
-20
-30
-```
+* 1 Second
+* 2 Seconds
+* 3 Seconds
+* 5 Seconds
+* 10 Seconds
+* 15 Seconds
+* 30 Seconds
 
-Cursor Speed
-```html
-Speed at which the characters are typed
-Available options include:
-Different Speeds
-Very Slow
-Slow
-Normal
-Fast
-Very Fast
-```
+**Pause On Hover:**
 
-Pause On Hover
-```html
-Whether to pause when the mouse hovers over the ticker
-Available options include:
-Yes
-No
-```
-
-Fade
-```html
-Whether to fade between ticker items or not
-Available options include:
-Yes
-No
-```
-
-Font Size
-```html
-Set Font Size
-Available options include:
-Initial
-Smallest
-Small
-Large
-X-Large
-XX-Large
-```
-
-Colour
-```html
-Set Colour
-Available options include:
-Black
-Aqua
-Aquamarine
-Blisque
-Blue
-Blue (Violet)
-Blue (Cadet)
-Blue (CornFlower)
-Blue (Dark)
-Brown
-Burlywood
-Chartreuse
-Chocolate
-Coral
-Crimson
-Cyan
-Cyan (Dark)
-Deep Skyblue
-Gold
-Gray
-Green
-Lime
-Lime Green
-Maroon
-Olive
-Orange
-Purple
-Pink
-Pink (Deep)
-Pink (Hot)
-Red
-Tomato
-```
-
+_If **"Yes"** is selected then the animation will pause on mouse hover and resume upon mouse leave. If **"No"** is selected then the animation will continue whether the mouse hovers over the carousel or not._
 ## Author
 
-[Farzad Soltani](https://github.com/farzadso)
+[Farzad Soltani - On GitHub](https://github.com/farzadso)
+
 [Twitter](https://www.twitter.com/farzadso)
-[E-mail](mailto:farzad.au@gmail.com)
+
+[E-mail - Relevant Questions Only Please](mailto:farzad.au@gmail.com)
