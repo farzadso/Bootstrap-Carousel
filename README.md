@@ -1,7 +1,7 @@
 # Oracle APEX Bootstrap Carousel Plugin
 _Oracle APEX Bootstrap Carousel Plugin_
 
-_This plugin will add a bootstrap carousel with three images (from external sources or from your web server content or files in your **Static Application Files**) that automatically sets its width accordingly. Keyboard functionality is alspo supported and changing the slides can be controlled via the left and right arrow keys._
+_This plugin will add a bootstrap carousel with three images (from external sources or from your web server content or files in your **Static Application Files**) that automatically sets its width accordingly. Keyboard functionality is also supported and changing the slides can be controlled via the left and right arrow keys._
 
 _This carousel is based on disribution 3.3.6 of bootstrap and includes the necessary .js and .css files in the plugin itself._
 
