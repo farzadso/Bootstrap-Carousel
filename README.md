@@ -1,3 +1,5 @@
+**Note**: This repository is no longer maintained by me as I have changed the technologies I'm mostly using.
+
 # Oracle APEX Bootstrap Carousel Plugin
 _Oracle APEX Bootstrap Carousel Plugin_
 
